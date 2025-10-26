@@ -1,6 +1,6 @@
-from curry import curry
-from curry import uncurry
-from curry import f
+from src.curry import curry
+from src.curry import uncurry
+from src.curry import f
 
 import pytest
 
